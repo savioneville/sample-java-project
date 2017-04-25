@@ -3,3 +3,4 @@ This is a text file used to demo push and pull commands.
 Step 1. File creation on github repository. 
 Step 2. Create a change that needs to be pulled from remote.
 Step 3. Make a local change to be pushed to master.
+Step 4: Use ssh instead of https connection.
